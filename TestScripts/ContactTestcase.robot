@@ -18,5 +18,5 @@ Create Contact
     UseModal           On
     PickList           Salutation                  Mr.
     TypeText           First Name                  Villuri
-    TypeAlert          Last Name                   Kumar
+    TypeText          Last Name                   Kumar
 
