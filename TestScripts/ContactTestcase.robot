@@ -18,5 +18,6 @@ Create Contact
     UseModal           On
     PickList           Salutation                  Mr.
     TypeText           First Name                  Villuri
-    TypeText          Last Name                   Kumar
+    TypeText           Last Name                   Kumar
+    ClickText          Save                        partial_match=False
 
